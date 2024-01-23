@@ -1,3 +1,3 @@
 # BhagyaB
 This is my first repository 
-author Bhagyashree Bhairagond 
+author:Bhagyashree Bhairagond 
